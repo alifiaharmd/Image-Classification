@@ -2,7 +2,7 @@
 Classifying the handwritten digit dataset with SVM and Multi-Class Weather dataset with CNN
 
 # Repository info:
-There are couple notebooks in this repository with different dataset and methodologies to classify the images
+There are couple notebooks in this repository with different dataset and methodologies to classify the images.
 
 1. The handwritten digit images
 
